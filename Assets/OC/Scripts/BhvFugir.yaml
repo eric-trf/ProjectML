@@ -1,5 +1,0 @@
-behaviors: 
-  BhvFugir: 
-    trainer_type: ppo
-    hyperparameters: 
-      max_steps: 10000000
